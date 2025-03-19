@@ -1,7 +1,7 @@
 # Hey, I'm Boots 🥾
 ### Web Developer | Always Learning | Open to Work
 
-🔹 Learning **Full Stack JavaScript** with The Odin Project  
+🔹 Learning **Full Stack Development** with The Odin Project  
 🔹 Actively seeking **freelance work** and **junior web dev roles**  
 🔹 Building projects to sharpen my skills and expand my portfolio  
 
